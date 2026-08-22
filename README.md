@@ -1,6 +1,6 @@
 # codriver stages
 
-Pace-note stages for [codriver](https://github.com/W0nt3x/codriver-for-forza-horizon-6),
+Pace-note stages for [codriver](https://github.com/W0nt3x/forza-codriver),
 the rally co-driver for Forza Horizon 6, shared by players. Install them from the
 Stages tab inside codriver; no download needed.
 
