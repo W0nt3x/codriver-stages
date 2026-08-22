@@ -1,4 +1,14 @@
 {
- "generated_utc": "2026-08-22T21:26:16Z",
- "stages": []
+ "generated_utc": "2026-08-22T22:33:06Z",
+ "stages": [
+  {
+   "file": "waterfall-trail.json",
+   "name": "waterfall-trail",
+   "length_m": 5845.74,
+   "notes": 38,
+   "author": "",
+   "shared_utc": "",
+   "tool_version": ""
+  }
+ ]
 }
